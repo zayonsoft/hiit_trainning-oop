@@ -9,3 +9,8 @@ animal_1 = Animal()
 
 print(f"Animal NAme is: {animal_1.name}")
 animal_1.name = "Cow"
+
+animal_2 = Animal()
+
+animal_2.name = "Dog"
+print(animal_2.name)
